@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1229392015 source:/home/marcio/Insanerz/InsanerzShooter/main.cpp
+	<stdlib.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<iostream>
+	<vector>
+	<string>
+	"SDL/SDL_opengl.h"
+	<time.h>
+	<sstream>
+	<string>
+	<math.h>
+	<SDL/SDL_mixer.h>
+
